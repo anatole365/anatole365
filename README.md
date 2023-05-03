@@ -4,6 +4,6 @@
 
 ### Languages and Tools
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=jira&logoColor=0052CC)
-![DevTools](https://img.shields.io/badge/-DevTools-000000?style=for-the-badge&logo="https://github.com/av-gerasimov/av-gerasimov/blob/main/assets/googlechrome-color.svg"&logoColor=4285F4)
+![DevTools](https://img.shields.io/badge/-DevTools-000000?style=for-the-badge&logo=googlechrome&logoColor=4285F4)
 
 Please, contact me via
