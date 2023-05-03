@@ -3,7 +3,7 @@
 ## Hi, my name is Anatoli and I am a Junior Software Testing Engineer.
 
 ### Languages and Tools
-![Jira](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=jira&logoColor=#0052CC)
-![DevTools](https://img.shields.io/badge/-DevTools-000000?style=for-the-badge&logo=DevTools&logoColor=#4285F4)
+![Jira](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=jira&logoColor=0052CC)
+![DevTools](https://img.shields.io/badge/-DevTools-000000?style=for-the-badge&logo=DevTools&logoColor=4285F4)
 
 Please, contact me via
