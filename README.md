@@ -4,5 +4,6 @@
 
 ### Languages and Tools
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=jira&logoColor=0000FF)
+![DevTools](https://img.shields.io/badge/-DevTools-000000?style=for-the-badge&logo=devtools&logoColor=0000FF)
 
-Follow me
+Please, contact me via
