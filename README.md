@@ -1,6 +1,6 @@
-![Header](https://github.com/av-gerasimov/av-gerasimov/blob/main/assets/quote-2023-05-03-7880195ac0e81fca8cbf927d36f32742.jpg)
+![Header](https://github.com/anatole365/anatole365/blob/main/assets/quote-2023-05-03-7880195ac0e81fca8cbf927d36f32742%20(1).jpg)
 
-## Hi, I'm Anatoli, Junior Software Testing Engineer.
+## Hi, I'm Anatoli, Junior Software Testing Engineer
 
 ### Languages and Tools
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=jira&logoColor=0052CC)
@@ -13,5 +13,3 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
 ![PyTest](https://img.shields.io/badge/-PyTest-000000?style=for-the-badge&logo=pytest&logoColor=0A9EDC)
 ![Selenium WebDriver](https://img.shields.io/badge/-Selenium_WebDriver-000000?style=for-the-badge&logo=selenium&logoColor=43B02A)
-
-Please, contact me via
